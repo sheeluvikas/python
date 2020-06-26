@@ -18,3 +18,6 @@ print(10%6)
 
 # print the first 100 prime numbers
 i = 1;
+
+inputNumber=input("Enter the number:")
+print(inputNumber)
